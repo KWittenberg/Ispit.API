@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.API", "Ispit.API\Ispit.API.csproj", "{D9E642A3-288D-484B-9F44-DCE13136075B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E642A3-288D-484B-9F44-DCE13136075B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E642A3-288D-484B-9F44-DCE13136075B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E642A3-288D-484B-9F44-DCE13136075B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E642A3-288D-484B-9F44-DCE13136075B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0874D82B-E509-4B83-B95D-0B6CD4C368F6}
+	EndGlobalSection
+EndGlobal
